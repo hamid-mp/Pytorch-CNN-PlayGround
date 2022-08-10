@@ -4,17 +4,16 @@
 
 **Network Architecture:**
 
-![Alt text](/1.png?raw=true "Network")
-
+![Alt text](/1.png)
 
 **Detaild Architecture :**
 
-![Alt text](/2.png?raw=true "Network")
+![Alt text](/2.png)
 
 
 **Block Description:**
 
-![Alt text](/2.png?raw=true "Network")
+![Alt text](/2.png)
 
 
 
