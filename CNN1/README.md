@@ -5,19 +5,19 @@
 **Network Architecture:**
 
 
-![Follow the instruction](/1.png)
+![alt text](./1.png)
 
 
 **Detaild Architecture :**
 
 
-![Follow the instruction](/2.png)
+![alt text](./2.png)
 
 
 **Block Description:**
 
 
-![Follow the instruction](/3.png)
+![alt text](./3.png)
 
 
 
