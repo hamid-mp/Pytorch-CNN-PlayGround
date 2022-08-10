@@ -4,16 +4,20 @@
 
 **Network Architecture:**
 
-![Alt text](/1.png)
+
+![Follow the instruction](/1.png)
+
 
 **Detaild Architecture :**
 
-![Alt text](/2.png)
+
+![Follow the instruction](/2.png)
 
 
 **Block Description:**
 
-![Alt text](/2.png)
+
+![Follow the instruction](/3.png)
 
 
 
