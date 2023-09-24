@@ -1,5 +1,5 @@
 # UNET code in pytorch for colorectal polyp segmentation
-<img src="./UNET/image/image.png />
 
+![alt text](./image/image.jpg)
 
-<img src="/image/UNET.png />
+![alt text](./image/UENT.png)
