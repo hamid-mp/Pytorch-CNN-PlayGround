@@ -3,7 +3,7 @@
 
 welcome,
 
-Here I just share my codes of difference CNN architectures using pytorch framework
+Here I just share my codes of different CNN architectures using pytorch framework
 
 I'll be glad for you contributions
 
