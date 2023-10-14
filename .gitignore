@@ -1,1 +1,4 @@
 *.pt
+/GAN-cats/*.jpg
+cats/
+aclImdb/
